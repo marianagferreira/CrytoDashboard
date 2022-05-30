@@ -4,9 +4,10 @@ dash
 requests
 dash_renderer
 dash-html-components
+dash.dependencies
 dash-core-components
 pandas
 numpy
-json
+statsmodels
 datetime
 yfinance
