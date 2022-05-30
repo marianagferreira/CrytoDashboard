@@ -12,3 +12,4 @@ statsmodels
 datetime
 yfinance
 requests
+squarify
