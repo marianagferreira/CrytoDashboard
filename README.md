@@ -36,8 +36,7 @@ The dashboard comprises the following list of cryptocurrencies, and data for the
 - DOGE 
 - DOT 
 - WBTC 
-- STETH 
-- WTRX 
+- STETH  
 - SHIB 
 - TRX 
 - DAI 
