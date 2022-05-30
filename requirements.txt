@@ -4,10 +4,11 @@ dash
 requests
 dash_renderer
 dash-html-components
-dash.dependencies
+dash-table
 dash-core-components
 pandas
 numpy
 statsmodels
 datetime
 yfinance
+requests
